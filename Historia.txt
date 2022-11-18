@@ -3,5 +3,5 @@ Esto es un archivo de historia para el curso de git
 
 Vamos a agregar mas información al archivo.
 
-Soy Sebastian Ocampo Builes
+Soy Sebastian Ocampo Builes developer
 
